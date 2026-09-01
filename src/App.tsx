@@ -1,7 +1,9 @@
+import Welcome from "./screens/Welcome";
+
 const App = () => {
   return (
-    <div>
-      <p>unote</p>
+    <div className="w-screen h-screen">
+      <Welcome />
     </div>
   );
 };
