@@ -1,11 +1,9 @@
 const App = () => {
   return (
     <div>
-      <p>
-        unote
-      </p>
+      <p>unote</p>
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
