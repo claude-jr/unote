@@ -3,8 +3,8 @@ import Workbench from "./screens/Workbench";
 
 const App = () => (
   <div className="w-screen h-screen">
-    {/* <Welcome /> */}
-    <Workbench />
+    <Welcome />
+    {/* <Workbench /> */}
   </div>
 );
 
